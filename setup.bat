@@ -1,8 +1,8 @@
 @echo off
 setlocal
 
-set LOGFILE=%USERPROFILE%\Downloads\CyberPatriot\setup.log
-set PYTHON_SCRIPT=%USERPROFILE%\Downloads\CyberPatriot\windows\launcher.py
+set LOGFILE=%USERPROFILE%\Downloads\CyberPatriot\LOGFILE.log
+set PYTHON_SCRIPT=%USERPROFILE%\Downloads\CyberPatriot\windows\main.py
 
 echo [%DATE% %TIME%] setup start >> "%LOGFILE%"
 

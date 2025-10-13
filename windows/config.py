@@ -1,0 +1,1 @@
+LOG_LEVEL = "DEBUG" # controls lowest log level that is logged; can be any of ["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"]
