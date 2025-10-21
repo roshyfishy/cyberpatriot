@@ -1,0 +1,1 @@
+Create a progress/loading bar so that it doesnt look like the program is just stalling
